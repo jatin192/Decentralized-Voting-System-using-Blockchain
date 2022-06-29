@@ -2,7 +2,6 @@
 # Election - DAPP 
 
 ## Dependencies
-Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
 - NPM: https://nodejs.org
 - Truffle: https://github.com/trufflesuite/truffle
 - Ganache: http://truffleframework.com/ganache/
@@ -14,7 +13,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 $ npm install
 ```
 ## Step 2. Start Ganache
-Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See free video tutorial for full explanation.
+Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. 
 ![Screenshot from 2022-06-30 00-08-01](https://user-images.githubusercontent.com/73174196/176512096-6463efb5-e798-4f85-b53c-d97dea4780aa.png)
 
 
