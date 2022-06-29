@@ -33,5 +33,6 @@ Visit this URL in your browser: http://localhost:3000
 
 ## If we were to build our voting application on the web, we’d run into a few problems:
 
-The data on the database could be changed: it could be counted more than once, or removed entirely.
-The source code on the web server could also be changed at any time.
+-The data on the database could be changed: it could be counted more than once, or removed entirely.
+
+-The source code on the web server could also be changed at any time.
